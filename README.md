@@ -10,6 +10,7 @@
     <img src="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/Iconsmi_carpeta/Estrategia_VienTU%CC%81_English.png" alt="VIENtú Strategy PDF" width="500"/>
   </a>
 </p>
+<p align="center"><em>Click on the image to view the full VIENtú strategy brochure</em></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -61,10 +62,11 @@ Developed in Bogotá, Colombia, with the participation of teachers, students, an
 <summary>🇪🇸 <strong>Versión en Español</strong></summary>
 
 <p align="center">
-  <a href="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/VIENt%C3%BA%20-%20Estrategia%20Presentaci%C3%B3n.pdf">
+  <a href="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/Estrategia_VienTU%CC%81_English.pdf">
     <img src="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/Iconsmi_carpeta/Estrategia_VienTU%CC%81_English.png" alt="Estrategia VIENtú PDF" width="500"/>
   </a>
 </p>
+<p align="center"><em>Haz clic en la imagen para ver el brochure completo de la estrategia VIENtú</em></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
