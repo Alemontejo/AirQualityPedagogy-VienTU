@@ -6,7 +6,7 @@
 <summary>🇬🇧 <strong>English Version</strong></summary>
 
 <p align="center">
-  <a href="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/VIENt%C3%BA%20-%20Estrategia%20Presentaci%C3%B3n.pdf">
+  <a href="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/Estrategia_VienTU%CC%81_English.pdf">
     <img src="https://github.com/Alemontejo/AirQualityPedagogy-VienTU/blob/main/Iconsmi_carpeta/Estrategia_VienTU%CC%81_English.png" alt="VIENtú Strategy PDF" width="500"/>
   </a>
 </p>
